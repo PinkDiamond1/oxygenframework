@@ -1,0 +1,4 @@
+vendor/
+system/
+*.zip
+csg.php
