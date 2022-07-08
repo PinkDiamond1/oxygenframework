@@ -10,9 +10,8 @@ You will find the doc of this framwork soon in here, but if you want to try and 
 Then you need to do this easy steps
 
  1. Unzip the code
- 2. Run `cd project-dirname`
- 3. Run `composer install` ( **[download](https://getcomposer.org/)** composer before )
- 4. Enjoy
+ 2. Run `composer create-project oxygen-dz/oxygenframework`
+ 3. Enjoy
 
 ## SmartyAV
 
