@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "7.0",
+        "guzzlehttp/guzzle": "7.4.5",
         "google/auth": "^1.16",
         "nesbot/carbon": "^2.51",
         "filp/whoops": "^2.14",
