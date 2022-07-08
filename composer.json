@@ -1,4 +1,19 @@
 {
+    "name": "oxygen-dz/oxygenframework",
+    "type": "library",
+    "description": "Create Framework",
+    "keywords": ["package","package"],
+    "homepage": "https://github.com/Oxygen-dz/oxygenframework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Redwan Aouni",
+            "email": "aouniradouan@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+
     "require": {
         "guzzlehttp/guzzle": "7.0",
         "google/auth": "^1.16",
