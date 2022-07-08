@@ -32,7 +32,6 @@
         "omnipay/mollie": "^5.4",
         "nelexa/zip": "^3.3",
         "markrogoyski/math-php": "^2.4",
-        "amitkkhanchandani/faceplusplus": "dev-master",
         "dompdf/dompdf": "^1.0",
         "twig/twig": "^3.3",
         "fakerphp/faker": "^1.15",
